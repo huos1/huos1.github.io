@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "个人简介"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# 个人简介
 ​
 ## 关于我自己
 本人本人是计算机科学专业的学生，喜欢五月天，喜欢徒步，喜欢汽车，以及看飞机起降过程；有些时候还会看一些诗词，优美并且也有力量；平时还喜欢运动，篮球，健身，以及跑步，流汗的感觉让人忘记烦恼；喜欢听歌，五月天，伍佰，孙燕姿，taylor swift，drake等等。
