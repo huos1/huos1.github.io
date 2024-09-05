@@ -1,3 +1,13 @@
+---
+permalink:/
+title:"About me"
+excerpt:"About me"
+author_profile:true
+redirect_from:
+ -/about/
+ -/about.html
+---
+
 # 个人简介
 ​
 ## 关于我自己
